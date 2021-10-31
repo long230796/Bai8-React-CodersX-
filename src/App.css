@@ -36,3 +36,23 @@
     transform: rotate(360deg);
   }
 }
+
+.layoutSingin {
+  width: 20%;
+  height: 70%;
+  background-color: rgb(92, 91, 91);
+}
+
+.Signin {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.username {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0;
+}
